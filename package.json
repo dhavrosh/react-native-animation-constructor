@@ -1,0 +1,20 @@
+{
+  "name": "react-native-animation-constructor",
+  "version": "1.0.0",
+  "description": "declarative animation constructor for react-native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "animated"
+  ],
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.45.1"
+  },
+  "author": "dhavrosh",
+  "license": "ISC"
+}
