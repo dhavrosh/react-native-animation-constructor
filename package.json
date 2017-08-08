@@ -1,6 +1,6 @@
 {
   "name": "react-native-animation-constructor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "declarative animation constructor for react-native apps",
   "main": "./index.js",
   "repository": "https://github.com/dhavrosh/react-native-animation-constructor",
